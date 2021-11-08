@@ -1,0 +1,3 @@
+- "color_label_change" is the notebook that we use to normalize the color of class from the output result to be similar to the label in the dataset test
+- In "color_label_change" also consists of the method to calculate metric
+- You can load the label images to change their color and save them for metric calculation in "color_label_change" notebook
